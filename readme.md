@@ -1,3 +1,6 @@
+A project aiming to reconstruct and identify 3D asteroid shapes only from their lightcurve graphs. Implements a simple raytracing algorithm and a neural network
+
+
 File Name             |  Function
 ----------------------------------------------------------------------------------
 shape_generator.py    | Generates convex/nonconvex shapes.
